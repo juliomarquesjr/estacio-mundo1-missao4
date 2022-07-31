@@ -11,4 +11,3 @@ lista_meses = [maio, junho, julho]
 
 grafico = Graficos(lista_meses)
 grafico.exibir_grafico_regressao(0)
-
